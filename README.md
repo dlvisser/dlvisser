@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi there 👋, I'm Dave
 
-<!--
-**dlvisser/dlvisser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About Me
+- 🔭 I’m currently working on my portfolio and a youtube-clone
+- 🌱 I’m currently learning TS, React
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Technologies & Tools
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+![C#](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=csharp)
+![Scala](https://img.shields.io/badge/-Scala-333333?style=flat&logo=scala)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![MobX](https://img.shields.io/badge/-MobX-333333?style=flat&logo=mobx)
+![JetBrains](https://img.shields.io/badge/-JetBrains-333333?style=flat&logo=jetbrains)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
