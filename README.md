@@ -1,6 +1,12 @@
-# Hi there, I'm Dave! 👋
+# Hi there, I'm Dave! 👾
 
-Welcome to my GitHub profile!
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:FF0080&height=120&section=header&text=Dave's%20GitHub%20Profile&fontAlign=50&fontAlignY=40&fontSize=32&desc=Welcome!%20Enjoy%20the%208-bit%20vibes!&descAlign=50&descAlignY=70" alt="8-bit Banner"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Fullstack+Developer;8-bit+Enthusiast;Hyper+Modern+Sleek+Code" alt="Typing SVG" />
+</p>
 
 ---
 
@@ -36,9 +42,30 @@ Welcome to my GitHub profile!
 
 ---
 
+## 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dlvisser&theme=onestar&no-frame=true&margin-w=10&column=7" alt="Trophies" />
+</p>
+
+---
+
 ## 📈 GitHub Stats
 
-![Dave's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlvisser&show_icons=true&theme=default)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dlvisser&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlvisser&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+## 🎮 Hobbies & Fun Facts
+
+- 🕹️ 8-bit games & retro consoles
+- 🎧 Synthwave & chiptune music
+- 🏓 Table tennis & cycling
+- 🧩 Puzzle solving & hackathons
+- 🌌 Always exploring the next big thing in tech!
 
 ---
 
