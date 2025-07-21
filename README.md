@@ -1,11 +1,11 @@
-# Hi there, I'm Dave! 👾
+# Hi there, I'm Dave! 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:FF0080&height=120&section=header&text=Dave's%20GitHub%20Profile&fontAlign=50&fontAlignY=40&fontSize=32&desc=Welcome!%20Enjoy%20the%208-bit%20vibes!&descAlign=50&descAlignY=70" alt="8-bit Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:FF0080&height=120&section=header&text=Dave's%20GitHub%20Profile&fontAlign=50&fontAlignY=40&fontSize=32&fontColor=FFFFFF&desc=Welcome!%20Enjoy%20the%20modern%20vibes!&descAlign=50&descAlignY=70" alt="Banner"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Fullstack+Developer;8-bit+Enthusiast;Hyper+Modern+Sleek+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Fullstack+Developer;Hyper+Modern+Sleek+Code" alt="Typing SVG" />
 </p>
 
 ---
@@ -59,13 +59,11 @@
 
 ---
 
-## 🎮 Hobbies & Fun Facts
+## 🎨 Hobbies & Fun Facts
 
-- 🕹️ 8-bit games & retro consoles
-- 🎧 Synthwave & chiptune music
-- 🏓 Table tennis & cycling
-- 🧩 Puzzle solving & hackathons
-- 🌌 Always exploring the next big thing in tech!
+- 📸 Photography
+- 🍰 Baking & Cooking
+- 🖌️ Designing
 
 ---
 
